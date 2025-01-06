@@ -1,7 +1,7 @@
 
 
 const startTime=new Date().getTime();
-const endTime=new Date("1 Dec , 2024 10:00:00").getTime();
+const endTime=new Date("1 Dec , 2025 10:00:00").getTime();
 
 
 let a=setInterval(function updateTimer(){
